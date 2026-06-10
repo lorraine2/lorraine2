@@ -15,3 +15,5 @@ machine learning at the University of Toronto with David Duvenaud, on bilevel an
 
 ### Research interests
 Generative models (3D / video / audio) · bilevel & hyperparameter optimization · meta-learning · efficient and multi-fidelity optimization
+
+<!-- profile -->
